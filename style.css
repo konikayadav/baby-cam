@@ -1,0 +1,25 @@
+body {
+    background-image:url(backrgound\ image\ \(purple\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 40px;
+width: 100%;
+margin: 0px;
+background-color:burlywood ;
+font-family: cursive;
+padding: 10px;
+}
+
+#status,#baby_presence
+{
+font-size: 18px;
+}
+canvas {
+    border:10px ridge burlywood;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(228, 178, 112);
+    margin-top: 50px;
+}
